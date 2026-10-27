@@ -10,7 +10,7 @@
 9:5,7,7,3,7,2,3,8,6,7
 10:4,1,9,3,8,5,4,3,5,5
 """
-from everybody_codes_2025.Puzzle_5.fishbone import Fishbone
+from every_body_codes.everybody_codes_2025.Puzzle_5.fishbone import Fishbone
 
 swords = """1:2,4,1,1,8,2,7,9,8,6
 2:7,9,9,3,8,3,8,8,6,8
